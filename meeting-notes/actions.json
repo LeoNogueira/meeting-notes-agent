@@ -1,0 +1,31 @@
+{
+  "actions": [
+    {
+      "description": "Message Greg about legacy product sales and set up a meeting with Greg, Alexandra, and Jamie",
+      "due_date": "None",
+      "owner": "Alex",
+      "status": "Not started"
+    },
+    {
+      "description": "Coordinate with Massa regarding architects visiting Brazil in late January",
+      "due_date": "None",
+      "owner": "Leonardo",
+      "status": "Not started"
+    },
+    {
+      "description": "Discuss with Alex about the VAT compliance meeting in Brighton and whether full attendance is necessary",
+      "due_date": "None",
+      "owner": "Leonardo",
+      "status": "Not started"
+    },
+    {
+      "description": "Arrange a session with Hugo and Arnor to explain SME work, including UBL mappings",
+      "due_date": "None",
+      "owner": "Claudia",
+      "status": "Not started"
+    },
+    {
+      "description": "Send Claudia the link to the Peru epic and stories after Hugo's review"
+    }
+  ]
+}
